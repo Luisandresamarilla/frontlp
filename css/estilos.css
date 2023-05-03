@@ -1,5 +1,21 @@
-body { background-color: red}
+body { background-color: red;
+     background-image: url(../imagenes/conejo.jpg );
+     background-repeat: no-repeat;
+     background-position: 35% 45%;
+     background-attachment: fixed;
+     }
+
+
 h1 {color: blue}
 .amarillo {color: yellow}
 
 #blanco {color: white}
+
+header {background-color: yellow;}
+nav {background-color: orange;
+  margin: 35px 22px 21px 10px;
+  padding: 15px;
+  border: 6px solid;
+}
+section {background-color: green;}
+aside {background-color: white;}
